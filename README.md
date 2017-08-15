@@ -9,7 +9,7 @@ Creates a Todo List for you with a nice interface.<br>
 <h1>How do I use it</h1>
 Click "Add Todo" and type the todo.
 <br>
-<img src="https://raw.githubusercontent.com/JusticePro/TodoPro/master/image.png"></img>
+<img src="https://raw.githubusercontent.com/JusticePro/TodoPro/master/window.png"></img>
 <h1>What did I learn while making this?</h1>
 <ul>
   <li>Saving and Loading Files</li>
