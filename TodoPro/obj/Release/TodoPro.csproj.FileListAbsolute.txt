@@ -1,0 +1,9 @@
+C:\Users\PCs for People\Documents\Visual Studio 2015\Projects\TodoPro\TodoPro\bin\Release\TodoPro.exe.config
+C:\Users\PCs for People\Documents\Visual Studio 2015\Projects\TodoPro\TodoPro\bin\Release\TodoPro.exe
+C:\Users\PCs for People\Documents\Visual Studio 2015\Projects\TodoPro\TodoPro\bin\Release\TodoPro.pdb
+C:\Users\PCs for People\Documents\Visual Studio 2015\Projects\TodoPro\TodoPro\obj\Release\TodoPro.Form1.resources
+C:\Users\PCs for People\Documents\Visual Studio 2015\Projects\TodoPro\TodoPro\obj\Release\TodoPro.Properties.Resources.resources
+C:\Users\PCs for People\Documents\Visual Studio 2015\Projects\TodoPro\TodoPro\obj\Release\TodoPro.Textbox.resources
+C:\Users\PCs for People\Documents\Visual Studio 2015\Projects\TodoPro\TodoPro\obj\Release\TodoPro.csproj.GenerateResource.Cache
+C:\Users\PCs for People\Documents\Visual Studio 2015\Projects\TodoPro\TodoPro\obj\Release\TodoPro.exe
+C:\Users\PCs for People\Documents\Visual Studio 2015\Projects\TodoPro\TodoPro\obj\Release\TodoPro.pdb

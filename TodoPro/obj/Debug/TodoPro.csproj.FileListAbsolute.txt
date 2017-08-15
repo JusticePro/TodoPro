@@ -1,0 +1,10 @@
+c:\users\pcs for people\documents\visual studio 2015\Projects\TodoPro\TodoPro\bin\Debug\TodoPro.exe.config
+c:\users\pcs for people\documents\visual studio 2015\Projects\TodoPro\TodoPro\bin\Debug\TodoPro.exe
+c:\users\pcs for people\documents\visual studio 2015\Projects\TodoPro\TodoPro\bin\Debug\TodoPro.pdb
+c:\users\pcs for people\documents\visual studio 2015\Projects\TodoPro\TodoPro\obj\Debug\TodoPro.csprojResolveAssemblyReference.cache
+c:\users\pcs for people\documents\visual studio 2015\Projects\TodoPro\TodoPro\obj\Debug\TodoPro.Form1.resources
+c:\users\pcs for people\documents\visual studio 2015\Projects\TodoPro\TodoPro\obj\Debug\TodoPro.Properties.Resources.resources
+c:\users\pcs for people\documents\visual studio 2015\Projects\TodoPro\TodoPro\obj\Debug\TodoPro.csproj.GenerateResource.Cache
+c:\users\pcs for people\documents\visual studio 2015\Projects\TodoPro\TodoPro\obj\Debug\TodoPro.exe
+c:\users\pcs for people\documents\visual studio 2015\Projects\TodoPro\TodoPro\obj\Debug\TodoPro.pdb
+c:\users\pcs for people\documents\visual studio 2015\Projects\TodoPro\TodoPro\obj\Debug\TodoPro.Textbox.resources
