@@ -1,7 +1,7 @@
 # TodoPro
 
 <h1>This was made for YouTube</h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4ocK2Ed-5cM" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=4ocK2Ed-5cM">The video made for this.</a>
 <h1>Download</h1>
 You can download this <a href="https://github.com/JusticePro/My-Story/releases">here</a>!<br>
 <h1>What Langauge Did I use?</h1>
